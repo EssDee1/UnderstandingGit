@@ -1,0 +1,1 @@
+This is a new chapter of understanding how git works. We will make changes later.
